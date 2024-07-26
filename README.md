@@ -16,7 +16,7 @@ BudgetBuddy is a web application designed to help college students cultivate bet
 
 ## Usage
 #### For using the deployed project
-1. Navigate to the [BudgetBuddy](BudgetBuddy12345.pythonanywhere.com) homepage.
+1. Navigate to the [BudgetBuddy](https://budgetbuddy12345.pythonanywhere.com/) homepage.
 2. Fill out the form with your income and expenses
 3. View the summary of your expenses, recommended budget allocations, and financial advisor tips
 
@@ -24,7 +24,7 @@ BudgetBuddy is a web application designed to help college students cultivate bet
 #### For running locally / deployed site is down
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/kjx172/BudgetBuddy.git
+   git clone https://github.com/kuruefebeste/BudgetBuddy.git
    cd BudgetBuddy
 2. **Install dependencies:**
    Ensure you have Python and pip installed. Then run:
